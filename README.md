@@ -1,0 +1,1 @@
+# vagrantfile-centos7
